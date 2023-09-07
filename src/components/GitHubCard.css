@@ -1,0 +1,19 @@
+/* src/components/GitHubCard.css */
+
+.github-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  .github-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: aqua;
+
+  }
+
+
